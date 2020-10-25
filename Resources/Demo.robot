@@ -7,3 +7,6 @@ Second keyword
 
 Third keyword
     Log to console      "Do one more"
+
+Fourth keyword
+    Log to console      "Do one more extra"
