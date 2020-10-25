@@ -7,4 +7,5 @@ Test Demo
     [Tags]    @demo
     First keyword
     Second keyword
+    Third keyword
 

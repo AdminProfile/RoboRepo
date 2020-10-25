@@ -4,3 +4,6 @@ First keyword
 
 Second keyword
     Log to console      "Do more"
+
+Third keyword
+    Log to console      "Do one more"
