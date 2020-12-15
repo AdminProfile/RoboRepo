@@ -4,7 +4,7 @@ Resource    ../Resources/Demo.robot
 
 *** Test Cases ***
 Test Demo
-    [Tags]    @demo
+    [Tags]    @demo     @smoke
     First keyword
     Second keyword
     Third keyword
