@@ -8,5 +8,5 @@ Valid Login
     Open Browser To Login Page
     Input Username      ${USERNAME}
     Input Password      ${PASSWORD}
-    CLose Browser
+    Close Browser
 

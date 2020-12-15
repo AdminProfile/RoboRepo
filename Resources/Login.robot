@@ -24,5 +24,5 @@ Input Password
 Click on LoginButton
     click element   xpath://input[@class='button-1 login-button']
 
-CLose Browser
+Close Browser
     close all browsers
